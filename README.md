@@ -1,2 +1,2 @@
 # BackgroundGenerator
-A background generator(Udemy course)
+A background generator(The Complete Web Developer in 2020: Zero to Mastery)
